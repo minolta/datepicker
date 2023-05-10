@@ -240,5 +240,8 @@
         "website"
       ]
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
